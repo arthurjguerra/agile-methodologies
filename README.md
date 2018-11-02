@@ -16,7 +16,7 @@ The holder of the product value.
 The Product Owner is expected to do the best possible job of satisfying all stakeholders, maintain the Product Backlog, and ensure that everyone knows the priorities.
 
 ### Scrum Master (SM)
-The servant leader.
+> The servant leader.
 
 The Scrum Master helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions.
 
