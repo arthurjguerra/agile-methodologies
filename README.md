@@ -23,7 +23,7 @@ The Scrum Master helps the Scrum Team perform at their highest level. They also 
 ### Development Team
 > The self-organizing group.
 
-Group of people to work on a product. Development Teams are structured and empowered to organize and manage their own work. 
+Group of people who work on the technical aspects of a product. Development Teams are structured and empowered to organize and manage their own work. 
 
 ## Artifacts
 
