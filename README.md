@@ -78,6 +78,7 @@ During the retrospective meeting, everything that isn't related to the product i
 
 This objective of this meeting is always identify problems that happened before and come up with ideas to prevent these same problems form happening again. The intention is to expose everything that caused a good or bad impact on the performance of the team.
 
-https://www.atlassian.com/agile/scrum
-https://www.umsl.edu/~sauterv/analysis/Fall2013Papers/Buric/agile-methodologies/scrum/scrum-artifacts.html
-https://www.scrumalliance.org/learn-about-scrum
+## References
+- https://www.atlassian.com/agile/scrum
+- https://www.umsl.edu/~sauterv/analysis/Fall2013Papers/Buric/agile-methodologies/scrum/scrum-artifacts.html
+- https://www.scrumalliance.org/learn-about-scrum
