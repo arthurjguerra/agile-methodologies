@@ -11,7 +11,7 @@ Short iterations also reinforce the importance of good estimation and fast feedb
 Before start talking about Scrum in depth. First, you need to understand the key roles defined by Scrum.
 
 ### Product Owner (PO)
-The holder of the product value.
+> The holder of the product value.
 
 The Product Owner is expected to do the best possible job of satisfying all stakeholders, maintain the Product Backlog, and ensure that everyone knows the priorities.
 
@@ -21,7 +21,7 @@ The Product Owner is expected to do the best possible job of satisfying all stak
 The Scrum Master helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions.
 
 ### Development Team
-The self-organizing group.
+> The self-organizing group.
 
 Development Teams are structured and empowered to organize and manage their own work. The resulting synergy optimizes overall efficiency and effectiveness.
 
@@ -38,14 +38,13 @@ The Sprint Backlog is the set of Product Backlog items selected for the Sprint p
 The Sprint Backlog defines the work the development team will perform to turn Product Backlog items into a “Done” Increment. The Sprint Backlog makes visible all of the work that the Development Team identifies as necessary to meet the Sprint Goal.
 
 #### Backlog Item
+A backlog item:
   - Has a Title, a Summary, an ID, a Value, and a Description
   - Can be described as a User Story
     - What, Why and Who
-  - Acceptance Criteria
-  -
+  - Has an Acceptance Criteria
 
-### Charts
-Burndown Chart
+> A burndown chart isn't considered Scrum artificat. However, it is a very good resource used in Scrum projects. It is a graphical representation of the work done over time. It clearly shows the performance of the team in the Sprint.
 
 
 ## Meetings
@@ -74,9 +73,6 @@ A sharing meeting where the team shows what they've shipped in that sprint. Prod
 During the retrospective meeting, everything that isn't related to the product is discussed. It is a review of what did and didn't go well in the last sprint with actions to make the next sprint better. Everyone has a chance to speak about things that they should continue doing, things that they should start doing and other things that should be stopped.
 
 This objective of this meeting is always identify problems that happened before and come up with ideas to prevent these same problems form happening again. The intention is to expose everything that caused a good or bad impact on the performance of the team.
-
-## Roles
-In 
 
 https://www.atlassian.com/agile/scrum
 https://www.umsl.edu/~sauterv/analysis/Fall2013Papers/Buric/agile-methodologies/scrum/scrum-artifacts.html
