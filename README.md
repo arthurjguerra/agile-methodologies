@@ -23,7 +23,7 @@ The Scrum Master helps the Scrum Team perform at their highest level. They also 
 ### Development Team
 > The self-organizing group.
 
-Development Teams are structured and empowered to organize and manage their own work. The resulting synergy optimizes overall efficiency and effectiveness.
+Group of people to work on a product. Development Teams are structured and empowered to organize and manage their own work. 
 
 ## Artifacts
 
@@ -37,12 +37,16 @@ The Sprint Backlog is the set of Product Backlog items selected for the Sprint p
 
 The Sprint Backlog defines the work the development team will perform to turn Product Backlog items into a “Done” Increment. The Sprint Backlog makes visible all of the work that the Development Team identifies as necessary to meet the Sprint Goal.
 
+### The increment
+An Increment is broadly defined as an increase or addition. In Scrum, the Development Team works to deliver a new Increment of the product every Sprint. 
+
 #### Backlog Item
 A backlog item:
   - Has a Title, a Summary, an ID, a Value, and a Description
   - Can be described as a User Story
     - What, Why and Who
   - Has an Acceptance Criteria
+    - In order to assess when work is complete on a Product Backlog item or an Increment, the Scrum Team creates a shared definition of "Done." Main takeaway: The definition of Done is what guides the Development Team and provides transparency about the level of quality that is considered sufficient to release an Increment.
 
 > A burndown chart isn't considered Scrum artificat. However, it is a very good resource used in Scrum projects. It is a graphical representation of the work done over time. It clearly shows the performance of the team in the Sprint.
 
